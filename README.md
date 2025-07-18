@@ -13,23 +13,6 @@ This repository contains the official implementation of **DUALRec**, developed a
 
 ---
 
-##  Repository Structure
-
-```
-DUALRec/
-├── README.md
-├── requirements.txt
-├── LICENSE
-├── .gitignore
-├── src/
-│   ├── data_loader.py         # Load and preprocess MovieLens 1M data
-│   ├── lstm_model.py          # LSTM architecture for sequence modeling
-│   ├── llm_integration.py     # Cosine similarity and genre-aware reranking with LLMs
-│   ├── evaluation.py          # HR@K, NDCG, Genre Jaccard similarity, etc.
-│   └── train.py               # Training pipeline
-└── notebook/
-    └── exploratory_analysis.ipynb
-```
 
 ---
 
