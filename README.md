@@ -50,7 +50,7 @@ We evaluate our model using both accuracy- and diversity-based metrics:
 
 ## Dataset
 
-This project uses the [MovieLens 1M dataset](https://grouplens.org/datasets/movielens/1m/). Please download them from the grouplens website.
+This project uses the [MovieLens 1M dataset](https://grouplens.org/datasets/movielens/1m/). Please download the version we used in the dataset document.
 
 ---
 
