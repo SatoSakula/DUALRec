@@ -1,6 +1,7 @@
 # DUALRec: A Hybrid Sequential and Language Model Framework for Context-Aware Movie Recommendation
 
 This repository contains the official implementation of **DUALRec**, developed as part of my Master's thesis at the University of Amsterdam. DUALRec is a hybrid recommendation framework that combines the sequential modeling strengths of LSTM with the semantic understanding of Language Models (LLMs) to improve movie recommendations in a context-aware setting.
+Full paper is currently avaliable on arxiv: https://arxiv.org/abs/2507.13957
 
 ---
 
